@@ -1,1 +1,20 @@
-s
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http:///ns/1.0"
+        id          = "com.pyro.speedpayuae"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>SpeedPay UAE</name>
+
+    <description>
+      SpeedPay is a multi-purpose prepaid mobile payment instrument, which is a safe and easy payment instrument to every customer, especially to those who do not have a debit card/credit card/bank account. SpeedPay can be used to pay for services from affiliated service providers based on "anywhere-anytime" concept.
+    </description>
+
+    <author email="pyro.tech@pyrogroup.com">
+     Pyro Mobile App Team
+    </author>
+
+</widget>
