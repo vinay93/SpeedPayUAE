@@ -1,3 +1,3 @@
 # SpeedPayUAE
-this rep contains url for speedpayuae
+this rep contains code for speedpayuae
  
