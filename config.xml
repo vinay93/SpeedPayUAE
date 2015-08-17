@@ -7,7 +7,7 @@
 
     <!-- versionCode is optional and Android only -->
     
-        <icon src="res/icon/android/app-icon" gap:platform="android" width="72" height="72" />
+        <icon src="![](https://lh6.ggpht.com/PnNxasa5PEK3bSXUfoh5jTW7qHgF7aKwGXJuGR28_xGE-y7yEbrumlhEMsWt0_EFq7A=w300)" gap:platform="android" width="72" height="72" />
         <icon src="![](https://lh6.ggpht.com/PnNxasa5PEK3bSXUfoh5jTW7qHgF7aKwGXJuGR28_xGE-y7yEbrumlhEMsWt0_EFq7A=w300)"  gap:platform="winphone" width="72" height="72" />
         
 
