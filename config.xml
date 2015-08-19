@@ -3,7 +3,7 @@
         xmlns:gap   = "http:///ns/1.0"
         id          = "com.pyro.speedpayuae"
         versionCode = "10" 
-        version     = "1.0.0" >
+        version     = "1.1.0" >
 
     <!-- versionCode is optional and Android only -->
     
