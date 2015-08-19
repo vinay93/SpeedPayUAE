@@ -12,7 +12,7 @@
         
 
     <name>SpeedPay Dev Demo</name>
-
+    <preference name="windows-target-version" value="8.1" />
     <description>
       SpeedPay is a multi-purpose prepaid mobile payment instrument, which is a safe and easy payment instrument to every customer, especially to those who do not have a debit card/credit card/bank account. SpeedPay can be used to pay for services from affiliated service providers based on "anywhere-anytime" concept.
     </description>
